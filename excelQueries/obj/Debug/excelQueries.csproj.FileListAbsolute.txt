@@ -1,0 +1,6 @@
+C:\Users\Andrew\iCloudDrive\Documents\ASU\Spring 2020\CSE 446\Homework\Project 4\A7\excelQueries\bin\Debug\excelQueries.exe.config
+C:\Users\Andrew\iCloudDrive\Documents\ASU\Spring 2020\CSE 446\Homework\Project 4\A7\excelQueries\bin\Debug\excelQueries.exe
+C:\Users\Andrew\iCloudDrive\Documents\ASU\Spring 2020\CSE 446\Homework\Project 4\A7\excelQueries\bin\Debug\excelQueries.pdb
+C:\Users\Andrew\iCloudDrive\Documents\ASU\Spring 2020\CSE 446\Homework\Project 4\A7\excelQueries\obj\Debug\excelQueries.csprojAssemblyReference.cache
+C:\Users\Andrew\iCloudDrive\Documents\ASU\Spring 2020\CSE 446\Homework\Project 4\A7\excelQueries\obj\Debug\excelQueries.exe
+C:\Users\Andrew\iCloudDrive\Documents\ASU\Spring 2020\CSE 446\Homework\Project 4\A7\excelQueries\obj\Debug\excelQueries.pdb
